@@ -1,0 +1,113 @@
+[
+    {
+      "cod_aluno": "12345",
+      "cod_turma": "67890",
+      "nome": "João da Silva",
+      "cpf": "12345678901",
+      "rg": "123456789",
+      "telefone_aluno": "11987654321",
+      "telefone_responsavel": "11987654322",
+      "email": "joao.silva@email.com",
+      "data_nascimento": "2000-01-01 "
+    },
+    {
+      "cod_aluno": "12346",
+      "cod_turma": "67891",
+      "nome": "Maria Oliveira",
+      "cpf": "23456789012",
+      "rg": "234567890",
+      "telefone_aluno": "11987654323",
+      "telefone_responsavel": "11987654324",
+      "email": "maria.oliveira@email.com",
+      "data_nascimento": "2001-02-15 "
+    },
+    {
+      "cod_aluno": "12347",
+      "cod_turma": "67892",
+      "nome": "Carlos Pereira",
+      "cpf": "34567890123",
+      "rg": "345678901",
+      "telefone_aluno": "11987654325",
+      "telefone_responsavel": "11987654326",
+      "email": "carlos.pereira@email.com",
+      "data_nascimento": "2000-05-20 "
+    },
+    {
+      "cod_aluno": "12348",
+      "cod_turma": "67893",
+      "nome": "Ana Souza",
+      "cpf": "45678901234",
+      "rg": "456789012",
+      "telefone_aluno": "11987654327",
+      "telefone_responsavel": "11987654328",
+      "email": "ana.souza@email.com",
+      "data_nascimento": "1999-07-30 "
+    },
+    {
+      "cod_aluno": "12349",
+      "cod_turma": "67894",
+      "nome": "Pedro Lima",
+      "cpf": "56789012345",
+      "rg": "567890123",
+      "telefone_aluno": "11987654329",
+      "telefone_responsavel": "11987654330",
+      "email": "pedro.lima@email.com",
+      "data_nascimento": "1998-10-10 "
+    },
+    {
+      "cod_aluno": "12350",
+      "cod_turma": "67895",
+      "nome": "Paula Mendes",
+      "cpf": "67890123456",
+      "rg": "678901234",
+      "telefone_aluno": "11987654331",
+      "telefone_responsavel": "11987654332",
+      "email": "paula.mendes@email.com",
+      "data_nascimento": "2002-11-25 "
+    },
+    {
+      "cod_aluno": "12351",
+      "cod_turma": "67896",
+      "nome": "Lucas Barbosa",
+      "cpf": "78901234567",
+      "rg": "789012345",
+      "telefone_aluno": "11987654333",
+      "telefone_responsavel": "11987654334",
+      "email": "lucas.barbosa@email.com",
+      "data_nascimento": "2001-03-17 "
+    },
+    {
+      "cod_aluno": "12352",
+      "cod_turma": "67897",
+      "nome": "Juliana Martins",
+      "cpf": "89012345678",
+      "rg": "890123456",
+      "telefone_aluno": "11987654335",
+      "telefone_responsavel": "11987654336",
+      "email": "juliana.martins@email.com",
+      "data_nascimento": "1999-09-09 "
+    },
+    {
+      "cod_aluno": "12353",
+      "cod_turma": "67898",
+      "nome": "Rafael Costa",
+      "cpf": "90123456789",
+      "rg": "901234567",
+      "telefone_aluno": "11987654337",
+      "telefone_responsavel": "11987654338",
+      "email": "rafael.costa@email.com",
+      "data_nascimento": "1998-06-06 "
+    },
+    {
+      "cod_aluno": "12354",
+      "cod_turma": "67899",
+      "nome": "Fernanda Alves",
+      "cpf": "01234567890",
+      "rg": "012345678",
+      "telefone_aluno": "11987654339",
+      "telefone_responsavel": "11987654340",
+      "email": "fernanda.alves@email.com",
+      "data_nascimento": "2002-12-31 "
+    }
+  ]
+  
